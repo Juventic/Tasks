@@ -1,0 +1,19 @@
+{
+  "product": [
+    {
+      "id": "202",
+      "pname": "SSD",
+      "price": "400"
+    },
+    {
+      "id": "101",
+      "pname": "pc",
+      "price": "7000"
+    },
+    {
+      "id": "102",
+      "pname": "disks",
+      "price": "500"
+    }
+  ]
+}
